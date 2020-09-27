@@ -35,5 +35,6 @@ if __name__ == '__main__':
     print(s.pop())
     print(s.pop())
     print(s.pop())
-    print(s.peek())
     print(s.pop())
+    print(s.pop())
+
