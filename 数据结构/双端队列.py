@@ -7,7 +7,7 @@ class SDeque(object):
         self.__list.insert(0,item)
 
     def add_rear(self, item):
-
+        ''''''
         self.__list.append(item)
     def pop_front(self):
 
